@@ -8,7 +8,11 @@ This will show the file in the different parts of the git repository.
 
 ## Purpose
 
+This is the purpose of the project ;-)
+
 ## Deployment
+
+This is a mock deployment message
 
 ## How to Contribute
 
