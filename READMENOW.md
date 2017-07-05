@@ -16,5 +16,7 @@ This is a mock deployment message
 
 ## How to Contribute
 
+Please develop your own stuff!
+
 ### Copyright
 2017 Git Training :-) 
