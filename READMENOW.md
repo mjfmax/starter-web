@@ -1,6 +1,7 @@
 # Starter Project (first level heading - single hash)
 
 This is a sample project
+Adding a line for rebasing
 
 ## Introduction (second level heading - two hashes)
 
